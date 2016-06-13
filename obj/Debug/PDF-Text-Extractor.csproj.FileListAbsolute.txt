@@ -1,0 +1,8 @@
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\PDF-Text-Extractor\bin\Debug\PDF-Text-Extractor.exe.config
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\PDF-Text-Extractor\bin\Debug\PDF-Text-Extractor.exe
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\PDF-Text-Extractor\bin\Debug\PDF-Text-Extractor.pdb
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\PDF-Text-Extractor\bin\Debug\itextsharp.dll
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\PDF-Text-Extractor\bin\Debug\itextsharp.xml
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\PDF-Text-Extractor\obj\Debug\PDF-Text-Extractor.csprojResolveAssemblyReference.cache
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\PDF-Text-Extractor\obj\Debug\PDF-Text-Extractor.exe
+C:\Users\jgarcia.BATHLOCAL\Documents\GitHub\PDF-Text-Extractor\obj\Debug\PDF-Text-Extractor.pdb
