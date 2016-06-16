@@ -8,7 +8,7 @@ using iTextSharp.text.pdf.parser;
 
 namespace PDF_Text_Extractor
 {
-    class Program
+    class iTextSharp559Example
     {
         static void Main(string[] args)
         {
